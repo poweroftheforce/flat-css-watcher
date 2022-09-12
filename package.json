@@ -1,0 +1,26 @@
+{
+  "name": "Rinvoq-HCP_Local-Server",
+  "version": "1.0.0",
+  "description": "A sample Node.js app using HTTP Server",
+  "main": "watcher.js",
+  "scripts": {
+    "start": "node watcher.js"
+  },
+  "dependencies": {
+    "chokidar": "^3.5.3",
+    "node-static": "^0.7.11",
+    "rework": "^1.0.1",
+    "rework-file": "^1.0.0",
+    "rework-plugin-import-url": "^0.1.0",
+    "rework-plugin-url": "^1.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/abbvieadmp/admp-site-content/src/develop/"
+  },
+  "author": "Ashley Engle",
+  "contributors": [
+    "Ashley Engle <ashley.engle@intouchsol.com>"
+  ],
+  "license": "MIT"
+}
